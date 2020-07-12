@@ -1,16 +1,20 @@
-### Hi there 👋
+##### 👋 Hi! I am Suzy Nakayama 😊
 
-<!--
-**suzynakayama/suzynakayama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![My Workspace](https://i.imgur.com/PBg8Rw8.jpg)
 
-Here are some ideas to get you started:
+Right now:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I am working on Code Mentoring Toronto (international community that provides mentoring, coaching and a welcoming platform for developers of all levels to improve their skills. We are creating the “duolingo” (learning platform) for coding) with these techs: NestJs, ReactJs, Typescript, GraphQL, Apollo, Styled Components, Lerna and Figma.
+
+- 🤓 I am learning GraphQL/Apollo and Flask.
+
+- ⚡ Fun fact: I used to be a lawyer and a pastry chef before discovering how cool it is to code! Also, I like to crochet and watch animes!
+
+- 📫 You can reach me: 
+
+  - [Portfolio](https://www.suzynakayama.com)
+  
+  - [LinkedIn](https://www.linkedin.com/in/suzy-nakayama/)
+  
+  - [Medium](https://medium.com/@suzy.nakayama)
+
