@@ -8,9 +8,9 @@ __Right now:__
 
 - 🤓 &nbsp;&nbsp; I am learning GraphQL/Apollo and Flask.
 
-- ⚡ &nbsp;&nbsp; Fun fact: I used to be a lawyer and a pastry chef before discovering how cool it is to code! Also, I like to crochet and watch animes!
+- ⚡ &nbsp;&nbsp; Fun facts: I used to be a lawyer and a pastry chef before discovering how cool it is to code! Also, I like to crochet and watch animes!
 
-- 📫 &nbsp;&nbsp; You can reach me: 
+- 📫 &nbsp;&nbsp; You can reach me at my: 
 
   - [Portfolio](https://www.suzynakayama.com)
   
