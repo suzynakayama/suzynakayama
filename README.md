@@ -1,20 +1,11 @@
 ## 👋 Hi! I am Suzy Nakayama 😊
 
-![My Workspace](https://i.imgur.com/PBg8Rw8.jpg)
+Full-stack developer with 4+ years of experience delivering scalable, maintainable applications in agile environments. Proficient across the stack with React, React Native, TypeScript, NodeJS, Python, and Flask, and skilled at translating complex requirements into clean, user-focused solutions.
 
-__Right now:__
+With a background as a pastry chef and intellectual property lawyer, I bring creativity, precision, and business insight to software development—enabling clear communication, calm problem-solving, and elegant, functional design.
 
-- 💻 &nbsp;&nbsp; I am working on Code Mentoring Toronto (international community that provides mentoring, coaching and a welcoming platform for developers of all levels to improve their skills. We are creating the “duolingo” (learning platform) for coding) with these techs: NestJs, ReactJs, Typescript, GraphQL, Apollo, Styled Components, Lerna and Figma.
+📫 &nbsp;&nbsp; You can reach me at: 
 
-- 🤓 &nbsp;&nbsp; I am learning React Native.
-
-- ⚡ &nbsp;&nbsp; Fun facts: I used to be a lawyer and a pastry chef before discovering how cool it is to code! Also, I like to crochet and watch animes!
-
-- 📫 &nbsp;&nbsp; You can reach me at my: 
-
-  - [Portfolio](https://www.suzynakayama.com)
+  - [Portfolio](https://main.d9y18rva44lxm.amplifyapp.com)
   
   - [LinkedIn](https://www.linkedin.com/in/suzy-nakayama/)
-  
-  - [Medium](https://medium.com/@suzy.nakayama)
-
